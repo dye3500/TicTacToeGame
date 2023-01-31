@@ -31,4 +31,4 @@ Danny Ye
 
 Questions:
 1. Is there anyway to change the values of the minimax?
-2. What does the Node feature do?
+2. What does the Node feature do? 
